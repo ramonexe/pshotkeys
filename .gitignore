@@ -1,0 +1,14 @@
+# Ambiente virtual
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.pyc
+__pycache__/
+
+# Inno Setup output (já vai no Release, não no repo)
+dist/
+
+# Logs e dados do usuário
+*.log
