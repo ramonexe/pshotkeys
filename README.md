@@ -1,6 +1,6 @@
 # PSHotkeys
 
-Utilitário Windows para criar atalhos de teclado personalizados que funcionam **apenas quando o Photoshop está em foco** — incluindo ações que não existem nativamente, como rotacionar o canvas com uma tecla.
+Utilitário Windows para criar atalhos de teclado personalizados que funcionam **apenas quando o Photoshop está aberto** — incluindo ações que não existem nativamente, como rotacionar o canvas com uma tecla.
 
 ## Download
 
